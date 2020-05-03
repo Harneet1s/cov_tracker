@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712979367951",
+    "firebase_url": "https://covtracker-190b4.firebaseio.com",
+    "project_id": "covtracker-190b4",
+    "storage_bucket": "covtracker-190b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712979367951:android:e45d274ea0c9a76ed93b7a",
+        "android_client_info": {
+          "package_name": "com.harneet.covtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712979367951-nk4jjfi54236abblsd8gdlt5prhfdbqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harneet.covtracker",
+            "certificate_hash": "b3d3ab9a7e4b6b992f7b95a767c3f0415f44ccd8"
+          }
+        },
+        {
+          "client_id": "712979367951-j8mslrhqc4h13kj6vq9a7qffdnnpo6an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67v1LY7mLqFl80RXJKsgUgAVE3D873Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712979367951-j8mslrhqc4h13kj6vq9a7qffdnnpo6an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
